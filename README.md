@@ -2,7 +2,7 @@
 
 ## Author
 - **Name:** Ethen Mutiso
-- **GitHub:** [@kaduskotoxic](https://github.com/kaduskotoxic-driod)
+- **GitHub:** [@kaduskotoxic-driod](https://github.com/kaduskotoxic-driod)
 - **Date:** Month Day, Year
 
 ## Project Description
