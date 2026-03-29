@@ -1,7 +1,7 @@
-# Week {Number}: {Project Title}
+# Week 5: {Project Title}
 
 ## Author
-- **Name:** Your Full Name
+- **Name:** Ethen Mutiso
 - **GitHub:** [@MaisoriKitayama](https://github.com/MaisoriKitayama)
 - **Date:** Month Day, Year
 
